@@ -1,0 +1,30 @@
+header {
+  height: 100px;
+  background-color: #444;
+  width: 100%;
+}
+
+body {
+  width: 100%;
+}
+
+nav {
+  height: 70px; 
+}
+
+nav img {
+  display: inline-block;
+  margin: 15px;
+  margin-left: 60px;
+}
+
+.nav {
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav li {
+  display: inline-block;
+  line-height: 70px;
+  padding: 0 45px; 
+}
