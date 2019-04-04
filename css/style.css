@@ -73,7 +73,7 @@ section img {
   margin-bottom: 0px; 
   margin-left: 30px; 
   width: 480px;
-  height: 400px; 
+  height: 340px; 
   overflow-y: scroll; 
 }
 
@@ -88,6 +88,7 @@ button {
   padding-right: 35px; 
   padding-left: 35px;
   box-sizing: border-box;
+  border-radius: 10%;
 }
 
 footer {
